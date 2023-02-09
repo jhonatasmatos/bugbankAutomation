@@ -1,0 +1,3 @@
+br\com\bugbank\pages\HomePage.class
+tests\LoginTests.class
+tests\BaseTest.class
